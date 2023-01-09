@@ -18,11 +18,7 @@ void setup() {
     delay(100);
   }  
 }
-
-// https://logtail.com/
-// lijnib@picsart.site
-// ef5UqDK6F3eAthL
-
+ 
 void loop() {
   WiFiClientSecure client;
   client.setInsecure();
